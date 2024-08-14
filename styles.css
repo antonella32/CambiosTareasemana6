@@ -14,8 +14,8 @@ body {
 
 .link-button {
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
+    color: rgb(6, 109, 23);
+    border: 1px solid rgb(165, 196, 170);
     background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
